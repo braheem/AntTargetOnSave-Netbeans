@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.braheem.nbmodules.AntTargetOnSave
+OpenIDE-Module-Localizing-Bundle: org/braheem/nbmodules/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0

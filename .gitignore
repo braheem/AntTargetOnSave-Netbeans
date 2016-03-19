@@ -1,0 +1,10 @@
+/nbproject/private/
+/nbproject/genfiles.properties
+/nbproject/project.properties
+/nbproject/build-impl.xml
+/build/classes
+/build/classes-generated
+/build/cluster
+/build/depcache
+/build/public-package-jars
+/build/no-license.txt
